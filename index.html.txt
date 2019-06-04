@@ -35,7 +35,7 @@ Ethernet adapter Ethernet 2:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
 
-Ethernet adapter Ethernet 3:
+Ethernet adapter Ethernet 3: 
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
